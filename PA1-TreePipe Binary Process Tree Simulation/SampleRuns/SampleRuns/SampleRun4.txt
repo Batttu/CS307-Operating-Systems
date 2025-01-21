@@ -1,7 +1,0 @@
-Terminal Input: treePipe 0 0 0
-------------------------------
-> Current depth: 0, lr: 0
-Please enter num1 for the root: 10
-> My num1 is: 10
-> My result is: 11
-The final result is: 11
