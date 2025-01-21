@@ -1,0 +1,19 @@
+Initialized 1 processor_queues
+Read file, starting multithreaded execution
+Processor 0: Executed task ATask1, it has 380 ms remaining
+Processor 0: Executed task ATask2, it has 40 ms remaining
+Processor 0: Executed task ATask3, it has 590 ms remaining
+Processor 0: Executed task ATask4, it has 120 ms remaining
+Processor 0: Finished task ATask5
+Processor 0: Executed task ATask6, it has 200 ms remaining
+Processor 0: Finished task ATask7
+Processor 0: Finished task ATask8
+Processor 0: Executed task ATask1, it has 170 ms remaining
+Processor 0: Finished task ATask2
+Processor 0: Executed task ATask3, it has 380 ms remaining
+Processor 0: Finished task ATask4
+Processor 0: Finished task ATask6
+Processor 0: Finished task ATask1
+Processor 0: Executed task ATask3, it has 159 ms remaining
+Processor 0: Finished task ATask3
+All tasks finished, joining threads

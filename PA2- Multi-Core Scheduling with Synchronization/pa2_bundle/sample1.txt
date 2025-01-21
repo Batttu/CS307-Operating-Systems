@@ -1,0 +1,190 @@
+Initialized 8 processor_queues
+Read file, starting multithreaded execution
+Processor 0: Finished task ATask1
+Processor 1: Executed task BTask1, it has 470 ms remaining
+Processor 2: Executed task CTask1, it has 420 ms remaining
+Processor 3: Finished task DTask1
+Processor 4: Executed task ETask1, it has 20 ms remaining
+Processor 5: Finished task FTask1
+Processor 6: Executed task GTask1, it has 170 ms remaining
+Processor 7: Executed task HTask1, it has 430 ms remaining
+Processor 0: Executed task ATask2, it has 190 ms remaining
+Processor 1: Executed task BTask2, it has 350 ms remaining
+Processor 2: Executed task CTask2, it has 680 ms remaining
+Processor 3: Executed task DTask2, it has 130 ms remaining
+Processor 4: Finished task ETask2
+Processor 5: Executed task FTask2, it has 750 ms remaining
+Processor 6: Executed task GTask2, it has 490 ms remaining
+Processor 7: Finished task HTask2
+Processor 0: Executed task ATask3, it has 740 ms remaining
+Processor 1: Executed task BTask3, it has 310 ms remaining
+Processor 2: Executed task CTask3, it has 580 ms remaining
+Processor 3: Executed task DTask3, it has 740 ms remaining
+Processor 4: Executed task ETask3, it has 500 ms remaining
+Processor 5: Executed task FTask3, it has 240 ms remaining
+Processor 6: Executed task GTask3, it has 280 ms remaining
+Processor 7: Executed task HTask3, it has 760 ms remaining
+Processor 0: Executed task ATask4, it has 440 ms remaining
+Processor 1: Executed task BTask4, it has 470 ms remaining
+Processor 2: Executed task CTask4, it has 610 ms remaining
+Processor 3: Finished task DTask4
+Processor 4: Executed task ETask4, it has 160 ms remaining
+Processor 5: Finished task FTask4
+Processor 7: Finished task HTask4
+Processor 6: Executed task GTask4, it has 230 ms remaining
+Processor 0: Executed task ATask5, it has 630 ms remaining
+Processor 1: Executed task BTask5, it has 560 ms remaining
+Processor 2: Executed task CTask5, it has 480 ms remaining
+Processor 3: Finished task DTask5
+Processor 4: Finished task ETask5
+Processor 5: Executed task FTask5, it has 100 ms remaining
+Processor 7: Executed task HTask5, it has 680 ms remaining
+Processor 6: Finished task GTask5
+Processor 0: Executed task ATask6, it has 650 ms remaining
+Processor 1: Executed task BTask6, it has 690 ms remaining
+Processor 2: Executed task CTask6, it has 310 ms remaining
+Processor 4: Executed task ETask6, it has 670 ms remaining
+Processor 3: Finished task DTask6
+Processor 5: Executed task FTask6, it has 280 ms remaining
+Processor 7: Executed task HTask6, it has 320 ms remaining
+Processor 6: Finished task GTask6
+Processor 0: Executed task ATask7, it has 580 ms remaining
+Processor 2: Executed task CTask7, it has 320 ms remaining
+Processor 1: Executed task BTask7, it has 300 ms remaining
+Processor 4: Executed task ETask7, it has 570 ms remaining
+Processor 3: Finished task DTask2
+Processor 5: Executed task FTask7, it has 140 ms remaining
+Processor 7: Executed task HTask7, it has 790 ms remaining
+Processor 6: Executed task GTask7, it has 80 ms remaining
+Processor 0: Finished task ATask2
+Processor 1: Executed task BTask8, it has 90 ms remaining
+Processor 2: Executed task CTask1, it has 210 ms remaining
+Processor 4: Executed task ETask8, it has 690 ms remaining
+Processor 3: Executed task DTask3, it has 530 ms remaining
+Processor 5: Executed task FTask8, it has 790 ms remaining
+Processor 7: Finished task HTask8
+Processor 6: Finished task GTask1
+Processor 1: Executed task BTask9, it has 460 ms remaining
+Processor 0: Executed task ATask3, it has 530 ms remaining
+Processor 2: Executed task CTask2, it has 470 ms remaining
+Processor 4: Executed task ETask9, it has 70 ms remaining
+Processor 3: Executed task BTask6, it has 490 ms remaining
+Processor 5: Finished task FTask9
+Processor 7: Executed task HTask9, it has 130 ms remaining
+Processor 6: Executed task GTask2, it has 280 ms remaining
+Processor 2: Executed task CTask3, it has 370 ms remaining
+Processor 4: Executed task ETask10, it has 370 ms remaining
+Processor 0: Executed task ATask4, it has 230 ms remaining
+Processor 1: Executed task BTask1, it has 260 ms remaining
+Processor 3: Executed task CTask6, it has 110 ms remaining
+Processor 5: Executed task FTask2, it has 540 ms remaining
+Processor 7: Executed task HTask1, it has 220 ms remaining
+Processor 6: Executed task GTask3, it has 70 ms remaining
+Processor 2: Executed task CTask4, it has 400 ms remaining
+Processor 4: Finished task ETask1
+Processor 0: Executed task ATask5, it has 420 ms remaining
+Processor 3: Executed task ETask6, it has 470 ms remaining
+Processor 1: Executed task BTask2, it has 140 ms remaining
+Processor 5: Executed task FTask3, it has 30 ms remaining
+Processor 7: Executed task HTask3, it has 550 ms remaining
+Processor 6: Executed task GTask4, it has 20 ms remaining
+Processor 2: Executed task CTask5, it has 270 ms remaining
+Processor 4: Executed task ETask3, it has 290 ms remaining
+Processor 0: Executed task ATask6, it has 440 ms remaining
+Processor 1: Executed task BTask3, it has 100 ms remaining
+Processor 3: Finished task FTask5
+Processor 5: Executed task FTask6, it has 70 ms remaining
+Processor 7: Executed task HTask6, it has 110 ms remaining
+Processor 6: Finished task GTask7
+Processor 2: Executed task CTask7, it has 110 ms remaining
+Processor 4: Finished task ETask4
+Processor 0: Executed task ATask7, it has 370 ms remaining
+Processor 3: Executed task HTask5, it has 480 ms remaining
+Processor 1: Executed task BTask4, it has 260 ms remaining
+Processor 5: Finished task FTask7
+Processor 7: Executed task HTask7, it has 580 ms remaining
+Processor 6: Executed task GTask2, it has 59 ms remaining
+Processor 2: Finished task CTask1
+Processor 4: Executed task ETask7, it has 360 ms remaining
+Processor 0: Executed task ATask3, it has 310 ms remaining
+Processor 1: Executed task BTask5, it has 350 ms remaining
+Processor 3: Executed task DTask3, it has 310 ms remaining
+Processor 5: Executed task FTask8, it has 580 ms remaining
+Processor 7: Finished task HTask9
+Processor 6: Finished task GTask3
+Processor 2: Executed task CTask2, it has 249 ms remaining
+Processor 4: Executed task ETask8, it has 480 ms remaining
+Processor 0: Executed task ATask4, it has 9 ms remaining
+Processor 1: Executed task BTask7, it has 90 ms remaining
+Processor 3: Executed task BTask6, it has 280 ms remaining
+Processor 5: Executed task FTask2, it has 320 ms remaining
+Processor 7: Finished task HTask1
+Processor 6: Finished task GTask4
+Processor 2: Executed task CTask3, it has 149 ms remaining
+Processor 1: Finished task BTask8
+Processor 4: Finished task ETask9
+Processor 3: Finished task CTask6
+Processor 0: Executed task ATask5, it has 199 ms remaining
+Processor 5: Finished task FTask3
+Processor 7: Executed task HTask3, it has 330 ms remaining
+Processor 6: Finished task GTask2
+Processor 2: Executed task CTask4, it has 179 ms remaining
+Processor 1: Executed task BTask9, it has 250 ms remaining
+Processor 4: Executed task ETask10, it has 160 ms remaining
+Processor 3: Executed task ETask6, it has 260 ms remaining
+Processor 7: Finished task HTask6
+Processor 0: Executed task ATask6, it has 219 ms remaining
+Processor 5: Finished task FTask6
+Processor 6: Executed task BTask5, it has 150 ms remaining
+Processor 2: Executed task CTask5, it has 49 ms remaining
+Processor 1: Executed task BTask1, it has 39 ms remaining
+Processor 4: Executed task ETask3, it has 69 ms remaining
+Processor 3: Executed task HTask5, it has 270 ms remaining
+Processor 7: Executed task HTask7, it has 360 ms remaining
+Processor 5: Executed task FTask8, it has 360 ms remaining
+Processor 0: Executed task ATask7, it has 149 ms remaining
+Processor 6: Finished task BTask7
+Processor 2: Finished task CTask7
+Processor 1: Finished task BTask2
+Processor 3: Executed task DTask3, it has 79 ms remaining
+Processor 4: Executed task ETask7, it has 139 ms remaining
+Processor 7: Executed task HTask3, it has 99 ms remaining
+Processor 0: Executed task ATask3, it has 79 ms remaining
+Processor 6: Finished task BTask5
+Processor 5: Executed task FTask2, it has 89 ms remaining
+Processor 2: Executed task CTask2, it has 18 ms remaining
+Processor 1: Finished task BTask3
+Processor 4: Executed task ETask8, it has 260 ms remaining
+Processor 3: Executed task BTask6, it has 59 ms remaining
+Processor 7: Executed task HTask7, it has 129 ms remaining
+Processor 0: Finished task ATask4
+Processor 5: Executed task FTask8, it has 129 ms remaining
+Processor 2: Finished task CTask3
+Processor 1: Executed task BTask4, it has 39 ms remaining
+Processor 4: Finished task ETask10
+Processor 7: Finished task HTask3
+Processor 0: Finished task ATask5
+Processor 5: Finished task FTask2
+Processor 3: Executed task ETask6, it has 39 ms remaining
+Processor 2: Finished task CTask4
+Processor 1: Executed task BTask9, it has 29 ms remaining
+Processor 4: Finished task ETask3
+Processor 0: Finished task ATask6
+Processor 7: Finished task HTask7
+Processor 5: Finished task FTask8
+Processor 3: Executed task HTask5, it has 49 ms remaining
+Processor 2: Finished task CTask5
+Processor 0: Finished task ATask7
+Processor 1: Finished task BTask1
+Processor 4: Finished task ETask7
+Processor 3: Finished task DTask3
+Processor 2: Finished task CTask2
+Processor 0: Finished task ATask3
+Processor 1: Finished task BTask4
+Processor 4: Executed task ETask8, it has 29 ms remaining
+Processor 3: Finished task BTask6
+Processor 1: Finished task BTask9
+Processor 3: Finished task ETask6
+Processor 4: Finished task ETask8
+Processor 3: Finished task HTask5
+All tasks finished, joining threads
