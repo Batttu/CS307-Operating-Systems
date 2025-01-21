@@ -12,10 +12,10 @@ This repository contains my programming assignments (PAs) for the CS307 Operatin
 
 The repository contains four programming assignments (PAs), each designed to strengthen understanding of key operating systems concepts:
 
-1. **PA1**: [Assignment Title or Brief Description]
-2. **PA2**: [Assignment Title or Brief Description]
-3. **PA3**: [Assignment Title or Brief Description]
-4. **PA4**: [Assignment Title or Brief Description]
+1. **PA1**: TreePipe Binary Process Tree Simulation
+2. **PA2**: Multi-Core Scheduling with Synchronization
+3. **PA3**: Synchronization Sightseeing with Semaphores
+4. **PA4**: Extending a Virtual Memory Implementation with Paging
 
 
 ## Topics Covered
